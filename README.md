@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ShannavanGrevengoed/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/Shanna99.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/ShannavanGrevengoed/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
